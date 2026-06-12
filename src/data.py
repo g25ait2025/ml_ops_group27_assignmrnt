@@ -1,5 +1,5 @@
 # data.py
-
+import requests
 import gzip
 import json
 import random
