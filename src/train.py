@@ -1,6 +1,6 @@
 # train.py
 
-import wandb
+# import wandb
 
 from transformers import (
     DistilBertTokenizerFast,

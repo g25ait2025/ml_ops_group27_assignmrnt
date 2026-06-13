@@ -1,6 +1,6 @@
 # data.py
 # loads the dataset
-
+import requests
 import gzip
 import json
 import random
