@@ -62,9 +62,9 @@ iitj-mlops-end-to-end-pipeline/
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-org>/iitj-mlops-end-to-end-pipeline.git
+git clone https://github.com/g25ait2025/ml_ops_group27_assignmrnt.git
 
-cd iitj-mlops-end-to-end-pipeline
+cd iml_ops_group27_assignmrnt
 ```
 
 Create virtual environment:
@@ -224,13 +224,7 @@ Allows users to submit text and receive predictions.
 
 Kaggle Notebook Link:
 
-<PASTE_KAGGLE_NOTEBOOK_1_URL>
-
-### Experiment 2
-
-Kaggle Notebook Link:
-
-<PASTE_KAGGLE_NOTEBOOK_2_URL>
+https://www.kaggle.com/code/bhoopendrakumarg25/ml-ops-g27
 
 ---
 
@@ -238,11 +232,7 @@ Kaggle Notebook Link:
 
 Public Model Repository:
 
-<PASTE_HUGGINGFACE_MODEL_URL>
-
-Example:
-
-https://huggingface.co/your-team/distilbert-goodreads
+https://huggingface.co/Bhoop-g25ait2025/distilbert-goodreads-genres_g27
 
 ---
 
@@ -250,11 +240,7 @@ https://huggingface.co/your-team/distilbert-goodreads
 
 Docker Hub Repository:
 
-<PASTE_DOCKERHUB_URL>
-
-Example:
-
-https://hub.docker.com/r/your-team/mlops-inference
+https://hub.docker.com/repository/docker/g25ait2025/goodreads-classifier_27/general
 
 ---
 
@@ -262,11 +248,7 @@ https://hub.docker.com/r/your-team/mlops-inference
 
 Public W&B Project:
 
-<PASTE_WANDB_URL>
-
-Example:
-
-https://wandb.ai/your-team/mlops-project
+https://wandb.ai/g25ait2025-prom-iit-rajasthan/mlops-group27-assignment?nw=nwuserg25ait2025
 
 ---
 
