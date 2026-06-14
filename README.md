@@ -254,14 +254,18 @@ https://wandb.ai/g25ait2025-prom-iit-rajasthan/mlops-group27-assignment?nw=nwuse
 
 # Team Members
 
-| Name | Responsibility |
-|--------|---------------|
-| Member 1 | Repository Setup & GitHub Actions |
-| Member 2 | Dataset Preparation |
-| Member 3 | Model Training & W&B |
-| Member 4 | Docker & Deployment |
-
----
+| Name             |                                    Responsibility                                        |      
+|------------------|------------------------------------------------------------------------------------------|
+| Bhoopendra Kumar | Project lead & coordination across all tasks; repository setup & branch protection;      |
+|  (G25AIT2025)    |  Kaggle GPU training of both versions (v1/v2); W&B experiment tracking and integration;  |
+|                  |  pushing the best model to Hugging Face Hub                                              |     
+| Khushi Bawistale | Dataset download & inspection; reusable data-cleaning / normalisation script;            |
+|  (G25AIT2052)    | class-balancing and id2label.json mapping; exploratory data analysis                     |
+| Tejaswini        |Dockerfile design and inference.py;local build & end-to-end testing; publishing the public| 
+|  (G25AIT2055)    |image to Docker Hub; inference output formatting                                          |
+| Kapil Sharma     | CI and Inference GitHub Actions workflows; GitHub & Kaggle secrets configuration; README,|
+|  (G25AIT2047)    | W&B comparison write-up and final report                                                 |
+---------------------------------------------------------------------------------------------------------------
 
 # Technologies Used
 
