@@ -64,7 +64,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/g25ait2025/ml_ops_group27_assignmrnt.git
 
-cd iml_ops_group27_assignmrnt
+cd ml_ops_group27_assignmrnt
 ```
 
 Create virtual environment:
@@ -225,6 +225,14 @@ Allows users to submit text and receive predictions.
 Kaggle Notebook Link:
 
 https://www.kaggle.com/code/bhoopendrakumarg25/ml-ops-g27
+
+---
+
+### Experiment 2
+
+Kaggle Notebook Link:
+
+https://www.kaggle.com/code/bhoopendrakumarg25/ml-ops-g27-v2
 
 ---
 
